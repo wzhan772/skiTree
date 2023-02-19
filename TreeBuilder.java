@@ -1,5 +1,4 @@
 /**
- * @author William Zhang 251215208 
  * The purpose of this class is to create the binary trees for the program using a queue-based approach
  */
 public class TreeBuilder<T> {
