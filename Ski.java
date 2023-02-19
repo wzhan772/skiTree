@@ -1,5 +1,4 @@
 /**
- * @author William Zhang 251215208 
  * The purpose of this class is to show each step of the skier going down the hill based on the requirements
  */
 public class Ski {
